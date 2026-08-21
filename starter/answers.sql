@@ -1,4 +1,4 @@
-create database guna11;
+CREATE database guna11;
 use guna11;
 CREATE TABLE Student (
     StudentID INT PRIMARY KEY,
@@ -8,6 +8,6 @@ CREATE TABLE Student (
     DepartmentID INT NOT NULL
 );
 
-desc Student;
-insert Student values("12030","guna","2007-09-05","male","10030");
-select*form Student;
+DESC Student;
+INSERT Student VALUES("12030","guna","2007-09-05","male","10030");
+SELECT*form Student;
