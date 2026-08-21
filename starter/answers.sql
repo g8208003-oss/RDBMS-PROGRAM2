@@ -9,5 +9,5 @@ CREATE TABLE Student (
 );
 
 desc Student;
-insert Student values("12030","guna","2007-09-05","male","10030")
+insert Student values("12030","guna","2007-09-05","male","10030");
 select*form Student;
