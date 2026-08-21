@@ -8,6 +8,6 @@ CREATE TABLE Student (
     DepartmentID INT NOT NULL
 );
 
-desc student1;
-insert student1 values("12030","guna","2007-09-05","male","10030")
-select*form student1;
+desc Student;
+insert Student values("12030","guna","2007-09-05","male","10030")
+select*form Student;
